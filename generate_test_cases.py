@@ -2,7 +2,7 @@ import csv
 from random import choice, randint
 
 
-input_count = 10000
+input_count = 10
 count = 0
 
 with open("test_case.csv", "w") as outf:

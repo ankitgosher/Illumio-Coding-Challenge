@@ -1,4 +1,4 @@
-from Firewall import Firewall
+import Firewall
 
 fw = Firewall("input.csv")
 
